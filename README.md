@@ -5,6 +5,7 @@ Installation :
 
 
 pip install -U selenium
+
 official:	https://github.com/SeleniumHQ/selenium/tree/master/py
 
 Tutorials
