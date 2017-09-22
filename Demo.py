@@ -27,7 +27,7 @@ class TestCases(unittest.TestCase):
 		self.test = Testing()
 		self.test.goto("http://selenium-python.readthedocs.io/api.html")
 
-	def testPageTitle(self):
+	def test_Page_Title(self):
 		browser_title = self.test.get_title()
 		self.assertIn("Selenium Python Bindings 2 documentation",browser_title)
 
