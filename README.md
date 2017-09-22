@@ -8,4 +8,8 @@ pip install -U selenium
 
 
 Tutorials
-https://pypi.python.org/pypi/selenium
+
+
+Python WebDriver Tutorial : https://pypi.python.org/pypi/selenium
+
+Download Webdriver from: https://chromedriver.storage.googleapis.com/index.html?path=2.29/
