@@ -1,5 +1,5 @@
 # selenium-pyt6hon
-Testing using Python and Selenium
+Purpose : Learning - Testing using Python and Selenium
 
 Installation :
 
