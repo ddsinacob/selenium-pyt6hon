@@ -14,3 +14,8 @@ Tutorials
 Python WebDriver Tutorial : http://selenium-python.readthedocs.io/api.html
 
 Download Webdriver from: https://chromedriver.storage.googleapis.com/index.html?path=2.29/
+
+
+Run the Tests
+
+python Demo.py
