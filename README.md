@@ -18,4 +18,6 @@ Download Webdriver from: https://chromedriver.storage.googleapis.com/index.html?
 
 Run the Tests
 
-python Demo.py
+git clone https://github.com/dilipdebsingha/selenium-pyt6hon
+cd selenium-pyt6hon
+./TestCases.py
