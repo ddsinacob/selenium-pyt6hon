@@ -11,6 +11,6 @@ official:	https://github.com/SeleniumHQ/selenium/tree/master/py
 Tutorials
 
 
-Python WebDriver Tutorial : https://pypi.python.org/pypi/selenium
+Python WebDriver Tutorial : http://selenium-python.readthedocs.io/api.html
 
 Download Webdriver from: https://chromedriver.storage.googleapis.com/index.html?path=2.29/
